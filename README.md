@@ -10,7 +10,7 @@ A digital twin is a virtual replica of a physical system that continuously recei
 
 ## Architecture
 
-![UrbanMirror Architecture](Editor _ Mermaid Chart-2025-05-25-102709.svg)
+![UrbanMirror Architecture](./aaa.svg)
 
 The platform follows a modular, microservices-based architecture organized into distinct layers:
 
